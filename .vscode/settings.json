@@ -1,0 +1,8 @@
+{
+  "files.exclude": {
+    "platforms": true,
+    "hooks": true,
+    "app/App_Resources": true,
+    "app/**/*.js": true
+  }
+}

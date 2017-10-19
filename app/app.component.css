@@ -1,0 +1,17 @@
+.container {
+  background-color: white;
+  margin-top: 1;
+}
+
+.tap-target {
+  padding-top: 13;
+  padding-bottom: 13;
+  padding-left: 16;
+}
+.tap-target Label {
+  min-width: 200;
+}
+
+Label.votes {
+  max-width: 50px;
+}
